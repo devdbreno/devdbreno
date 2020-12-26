@@ -1,7 +1,7 @@
 # Deivid Breno Novaes
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devdbreno&theme=dracula)
 ![Deivid's github stats](https://github-readme-stats.vercel.app/api?username=devdbreno&show_icons=true&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devdbreno&layout=compact&theme=dracula)
 
 ## Follow Me
 
