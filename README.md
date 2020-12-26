@@ -6,5 +6,5 @@
 ## Follow Me
 
 📩 **dbrenoti@gmail.com**<br/>
-🎥 **[YouTube](https://www.youtube.com/channel/UCUMJ-8fUrYBV1kpcJ2cjCeQ)**<br/>
-💼 **[LinkedIn](https://www.linkedin.com/in/devdbreno)**<br/>
+🎥 **[My YouTube channel](https://www.youtube.com/channel/UCUMJ-8fUrYBV1kpcJ2cjCeQ)**<br/>
+💼 **[My LinkedIn profile](https://www.linkedin.com/in/devdbreno)**<br/>
