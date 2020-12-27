@@ -1,6 +1,6 @@
 # Deivid Breno Novaes
 
-I'm a Backend Developer in love with Node.js, TypeScript and recently also Rust & Elixir.<br/>
+I'm a Backend Developer in love with Node.js, TypeScript and recently also Go, Rust and Elixir.<br/>
 Highly willing to solve problems in the most rational and objective way possible.
 
 ## My GitHub
