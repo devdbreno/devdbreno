@@ -4,7 +4,7 @@ I'm a backend developer with a passion for NodeJS and TypeScript.<br/>
 And now, recently, i've been studying Go, Rust and Elixir and their ecosystems.<br/>
 
 I have been developing and studying self-taught for over two years.<br/>
-**_And a developer highly willing to solve problems in the most rational and objective way possible._**
+**_Most importantly, i'm a developer highly willing to solve problems in the most rational and objective way possible._**
 
 ## My GitHub stats
 <a>
