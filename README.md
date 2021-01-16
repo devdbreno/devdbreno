@@ -1,17 +1,20 @@
 # Deivid Breno Novaes
 
-I'm a Backend Developer in love with Node.js, TypeScript and recently also Go, Rust and Elixir.<br/>
-Highly willing to solve problems in the most rational and objective way possible.
+I'm a backend developer with a passion for NodeJS and TypeScript.<br/> 
+And now, recently, i've been studying Go, Rust and Elixir and their ecosystems.<br/>
 
-## My GitHub
+I have been developing and studying self-taught for over two years.<br/>
+**_And a developer highly willing to solve problems in the most rational and objective way possible._**
+
+## My GitHub stats
 <a>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devdbreno&langs_count=6&layout=compact&theme=dracula" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devdbreno&langs_count=9&layout=compact&theme=dracula&hide=java,scss,gdscript" />
 </a>
 <a>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=devdbreno&count_private=true&show_icons=true&theme=dracula" />
 </a>
 
-## My WakaTime
+## My WakaTime stats
 <a>
   <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=devdbreno&theme=dracula" />
 </a>
