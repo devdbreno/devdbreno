@@ -8,7 +8,7 @@ I have been developing and studying self-taught for over two years.<br/>
 
 ## My GitHub stats
 <a>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devdbreno&langs_count=9&layout=compact&theme=dracula&hide=java,scss,gdscript" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devdbreno&langs_count=10&layout=compact&theme=dracula&hide=java,scss,gdscript" />
 </a>
 <a>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=devdbreno&count_private=true&show_icons=true&theme=dracula" />
@@ -19,7 +19,7 @@ I have been developing and studying self-taught for over two years.<br/>
   <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=devdbreno&theme=dracula" />
 </a>
 
-## Follow me
+## Find me
 
 📩 **My Gmail**: dbrenoti@gmail.com<br/>
 💼 **My LinkedIn profile**: https://www.linkedin.com/in/devdbreno<br/>
