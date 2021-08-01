@@ -28,16 +28,16 @@ Estudo programação de forma autodidata há quase 3 anos. Ao decorrer dos estud
 
    <img align="center" alt="devdbreno-golang" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg">
 
-  <img align="center" alt="devdbreno-golang" height="30" width="40"     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
+  <img align="center" alt="devdbreno-mongodb" height="30" width="40"     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
 
-  <img align="center" alt="devdbreno-golang" height="30" width="40"     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg">
+  <img align="center" alt="devdbreno-jest" height="30" width="40"     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg">
 
 </div>
   
 ##
  
 <div> 
-  <a href="linkdoytb" target="_blank">
+  <a href="https://www.youtube.com/channel/UCUMJ-8fUrYBV1kpcJ2cjCeQ" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank">
   </a>
   
