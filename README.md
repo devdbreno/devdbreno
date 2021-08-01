@@ -1,26 +1,55 @@
-# Deivid Breno Novaes
+## Hello there, i'm Deivid Breno Novaes!
 
-I'm a backend developer with a passion for NodeJS and TypeScript.<br/> 
-And now, recently, i've been studying Go, Rust and Elixir and their ecosystems.<br/>
+### Um pouco sobre mim
 
-I have been developing and studying self-taught for over two years.<br/>
-**_Most importantly, i'm a developer highly willing to solve problems in the most rational and objective way possible._**
+Desenvolvedor Backend que atualmente trabalha/estuda a stack NodeJS/JavaScript/TypeScript. Altamente disposto a resolver problemas da maneira mais lógica, racional e objetiva possível.
 
-## My GitHub stats
-<a>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devdbreno&langs_count=10&layout=compact&theme=dracula&hide=java,scss,gdscript" />
-</a>
-<a>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=devdbreno&count_private=true&show_icons=true&theme=dracula" />
-</a>
+Estudo programação de forma autodidata há quase 3 anos. Ao decorrer dos estudos optei por seguir o caminho "Backend", assim tendo foco no que queria. No progredir dos estudos comecei a estudar TypeScript junto a assuntos mais avançados acerca do ecossistema NodeJS, "clean architecture", "S.O.L.I.D principles" e também alguns "Design Patterns".
 
-## My WakaTime stats
-<a>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=devdbreno&theme=dracula" />
-</a>
+ <div>
+  <a href="https://github.com/devdbreno">
+  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=devdbreno&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 
-## Find me
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devdbreno&layout=compact&langs_count=6&theme=dracula&hide=CSS,SCSS,Java"/>
 
-📩 **My Gmail**: dbrenoti@gmail.com<br/>
-💼 **My LinkedIn profile**: https://www.linkedin.com/in/devdbreno<br/>
-🎥 **My YouTube channel**: https://www.youtube.com/channel/UCUMJ-8fUrYBV1kpcJ2cjCeQ<br/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/wakatime?username=devdbreno&theme=dracula"/>
+
+</div>
+
+##
+
+<div style="display: inline_block">
+  <img align="center" alt="devdbreno-js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+
+  <img align="center" alt="devdbreno-ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
+  
+  <img align="center" alt="devdbreno-python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+
+   <img align="center" alt="devdbreno-golang" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg">
+
+  <img align="center" alt="devdbreno-golang" height="30" width="40"     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
+
+  <img align="center" alt="devdbreno-golang" height="30" width="40"     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg">
+
+</div>
+  
+##
+ 
+<div> 
+  <a href="linkdoytb" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank">
+  </a>
+  
+  <a href="https://instagram.com/devdbreno" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
+  </a>
+
+  <a href = "mailto:dbrenoti@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+  </a>
+
+  <a href="https://www.linkedin.com/in/devdbreno" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+  </a>
+</div>
